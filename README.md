@@ -1,6 +1,6 @@
 # Server Performance Stats
 
-🔗 **Project URL:**  
+🔗 **Project Page URL:**  
 [https://github.com/Amitpm8/Server-Performance-Stats](https://github.com/Amitpm8/Server-Performance-Stats)
 
 A beginner-friendly Bash script to analyze Linux server performance.
