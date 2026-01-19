@@ -1,5 +1,7 @@
 # Server Performance Stats
 
+This project is part of roadmap.sh DevOps projects.
+
 🔗 **Project Page URL:**  
 [https://github.com/Amitpm8/Server-Performance-Stats](https://github.com/Amitpm8/Server-Performance-Stats)
 
@@ -16,4 +18,3 @@ A beginner-friendly Bash script to analyze Linux server performance.
 ```bash
 ./server-stats.sh
 
-This project is part of roadmap.sh DevOps projects. 
