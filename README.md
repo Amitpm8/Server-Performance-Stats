@@ -16,3 +16,4 @@ A beginner-friendly Bash script to analyze Linux server performance.
 ```bash
 ./server-stats.sh
 
+This project is part of roadmap.sh DevOps projects. 
